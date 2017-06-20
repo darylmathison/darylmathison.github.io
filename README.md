@@ -45,7 +45,7 @@ _Consultant_: **May 2015 - March 2016**
 * Working to automate current procedures with a mixture of Java and JRules.
 * Working with off-shore, near-shore and on-site in an Agile Scrum environment.
 
-### Frankie Friend ans Assoc.
+### Frankie Friend and Assoc.
 _Software Analyst III_: **November 2014 – April 2015**
 * Created procedure to quickly remove Cross Site Scripting vulnerabilities.
 * Implemented a mock a customer service for testing.
