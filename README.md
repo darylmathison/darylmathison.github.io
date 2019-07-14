@@ -1,11 +1,8 @@
 # Daryl Mathison
 
-113 Pointe Loop, Cibolo, TX 78108
+3728 William Scarbrough, Schertz, TX 78154
 
 _Blog_: http://darylmathison.com
-
-## Education
-Saint Mary's University, BS Computer Engineering
 
 ## Summary of Techinal Expertise
 
@@ -19,7 +16,7 @@ Saint Mary's University, BS Computer Engineering
 * SVN(Subversion), CVS, git
 * Oracle, PL/SQL, MySQL, Hazelcast
 * Java, J2EE, Spring, Hibernate, JMS, Apache Camel, JUnit
-* Groovy, Python
+* Groovy, Python, Docker, OpenShift
 * JDeveloper, Netbeans, Eclipse, IntelliJ
 
 ## Professional Experience
@@ -131,3 +128,5 @@ CIDDS was a multi-tier IDS to detect network attacks on the Air Forces networks.
 ##### April 1998 – May 1998
 Responsible for quality assurance for ASIM releases.  ASIM is an IDS sensor that sends information to CIDDS.  I performed QA duties working closely with the developers to reduce software defects.  I expanded the installation script to include an optional set of libraries and documentation into the machine.
  
+## Education
+Saint Mary's University, BS Computer Engineering
