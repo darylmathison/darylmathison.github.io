@@ -6,7 +6,7 @@ _Blog_: http://darylmathison.com
 
 ## Summary of Techinal Expertise
 
-* Senior Developer using iterative, continuous integration development to implement full stack applications.
+* Senior Developer using iterative, continuous integration development to implement mid tier applications.
 * RESTful design and implementation (JAX/RS)
 * RPM design and implementation
 * Administrator of Bugzilla, Subversion, Wiki and Jenkins servers.
@@ -21,12 +21,23 @@ _Blog_: http://darylmathison.com
 
 ## Professional Experience
 
+### Holmes Corporation
+_Full Stack Developer_: **August 2019 - Oct 2019**
+* Contributed to a framework that was served to several customers
+* Kanban Environment
+
 ### Rackspace
-_Software Dev III_: **March 2016 - Present**
+_Software Dev III_: **March 2016 - August 2019**
 * In a team that maintains a **critical business system**(CORE) written in Python.
 * Given responsibility to upgrade a system that synchronizes between two 
 **critical applications**(SFI).  Leads two software developers to help with
 maintaining the system.
+* Participated in Python 2 to 3 upgrade of CORE
+* Performing peer reviews in GitHub
+* Transferred CORE to a Docker image and deployed it to a OpenShift environment
+* Upgraded a Java enterprise application from JBoss 4 to Wildfly 10 for PCI compliance
+* Tier 3 customer support
+
 
 ### KForce
 _Consultant_: **May 2015 - March 2016**
@@ -74,30 +85,21 @@ _Technical Consultant_: **March 2007 – Dec 2009**
 * Developed Dynamic web pages using OAF and JDeveloper.
 
 ##### August 2007 – January 2008
-Java developer on National Board of Professional Teaching Standards (NBPTS) 
-reengineering project.  The team used a modified Agile methodology for development.  
-Pivotal in creating Subversion repository.  
-Responsible for gathering requirements from stakeholders.  
-Created test plans from gathered requirements and got stakeholder approval for test plans.  
-Implemented requirements using JDeveloper 10 and Oracle ADF technology. 
-This included modifying the database views and “instead-of” triggers.  
-Some of the views were made from stored XML data.  Once requirements were implemented, 
-the stakeholder and I preformed the test plan and recorded the results.  Stakeholder 
-had the final say on whether the requirements were met.
+* Agile methodology for development.  
+* Pivotal in creating Subversion repository.  
+* Responsible for gathering requirements from stakeholders.  
+* Created test plans from gathered requirements and got stakeholder approval for test plans.  
+* Implemented requirements using JDeveloper 10 and Oracle ADF technology. 
 
 ##### March 2007 – July 2007
-Java developer on Reserve Component Periodic Health Assessment (RCPHA) application 
-which enables the Air Force to track troop readiness for World Wide Deployment by 
-providing workflow and oversight for several important health related factors: 
-Periodic Heath Assessment, Occupational Heath, Pre/Post Deployment, Line of Duty Dispositions, 
-Flight Crew Grounding Management and Dental. Built a web site application using 
-Java for the U.S. Air Force Reserve Command using Java Servlets and Oracle 10g 
-on the Tomcat web container and Oracle’s Internet Application Server (iAS).  
-Tuned new and existing SQL and PL/SQL, which dramatically improved database system performance.  
-Helped to develop system specifications and schema diagrams to add new functionality 
-to an existing Oracle production system.  Worked with managers, legacy system administrators, 
-and end users to fully flesh out system requirements and business rules.  Analyzed requirements 
-and designed process flow diagrams, data flow diagrams, system ERDs and Schema Diagrams
+* Java Servlets
+* Oracle 10g 
+* Tomcat web container
+* Oracle’s Internet Application Server (iAS).  
+* Tuned new and existing SQL and PL/SQL, which dramatically improved database system performance.  
+* Helped to develop system specifications and schema diagrams to add new functionality 
+* Worked with stakeholders from design to acceptance.
+
 
 ### General Dynamics AIS (Advanced Information Systems)
 _Software Engineer_: **April 1998 – February 2007**
