@@ -4,7 +4,7 @@
 
 _Blog_: http://darylmathison.com
 
-## Summary of Techinal Expertise
+## Summary of Technical Expertise
 
 * Senior Developer using iterative, continuous integration development to implement mid tier applications.
 * RESTful design and implementation (JAX/RS)
@@ -115,20 +115,34 @@ _Software Engineer_: **April 1998 – February 2007**
 * Wrote a paper on how to detect a honeypot.
 
 ##### March 2003 – December 2003
-The research project was on cross-platform agents.  I refactored a Java Swing 
-front end from another project to work as a GUI to control the agents.  The project had a front end developed in Java and the agents were written in Python.  While I was expanding the agent’s functionality, I became responsible for resetting the test range.  To make the test range reset faster I changed a Knoppix distribution to include scripts that automated the reset of a machine.
+* Research project on cross-platform agents.
+* Refactored a Java Swing front end from another project to work as a GUI to control the agents. 
+* Java Swing frontend interfaced with Python agents
+* Expanded the Python agent’s functionality
+* Automated resetting the test range with custom Knoppix distribution.
 
 ##### November 2002 – March 2003
-Project evaluated Intrusion Detection Systems’ (IDS) performance against attacks found on the internet.  Downloaded attacks had to be debugged to remove bugs added to source code. The downloaded source code was in C. The resulting test results  were distributed to the customer to update signatures.
+* Evaluated Intrusion Detection Systems’ (IDS) performance against attacks found on the internet.  
+* Test results  were distributed to the customer to update signatures.
+* Downloaded attacks had to be debugged to remove bugs added to source code. 
+* Worked in C/++
 
 ##### August 2002 – October 2002
-Project was a rewrite of CIDDS and added an incident reporting database.  This would allow network analysts to see a network attack and report it in the same interface.  Except for the database, the entire project would was in Java using Java Swing for a front end.  The team used iterative, test-based development methodologies.   I was responsible for implementing unit testing with JUnit.  Every week I lead in a weekly team code audits with the customer attending
+* IDS and Incident Reporting database
+* Java Swing front end
+* Java middle tier
+* Oracle for a database.
+* Iterative test based methodology.
 
 ##### May 1998 – August 2002
-CIDDS was a multi-tier IDS to detect network attacks on the Air Forces networks. Oracle was used as a middleware for storing attack data and serving the data to the application server.  Application server and clients were written in Java Swing and used RMI to communicate.  Wrote and maintained the original application server and client.  Designed and implemented a multi-threaded data loader developed in Java and PL/SQL that could load up to 8 million rows every ten minutes.  The client was rewritten and I assisted in debugging.  Designed and implemented a software layer to make JDBC easier to use.
+* Multi-Tiered IDS to detect attacks on United States Air Force networks.
+* Java front end
+* Custom RMI server was the mid tier
+* Oracle backend
 
 ##### April 1998 – May 1998
-Responsible for quality assurance for ASIM releases.  ASIM is an IDS sensor that sends information to CIDDS.  I performed QA duties working closely with the developers to reduce software defects.  I expanded the installation script to include an optional set of libraries and documentation into the machine.
+* Tester for a IDS sensor (ASIM)
+* Expanded installation script to include optional libraries and documentation.
  
 ## Education
 Saint Mary's University, BS Computer Engineering
