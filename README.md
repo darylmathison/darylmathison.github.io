@@ -1,7 +1,5 @@
 # **Daryl Mathison**
 
-**Phone**: 740-834-9441  
-**Email**: [daryl.mathison@gmail.com](mailto:daryl.mathison@gmail.com)  
 **LinkedIn**: [https://www.linkedin.com/in/darylmathison](https://www.linkedin.com/in/darylmathison)  
 **GItHub**: [https://github.com/darylmathison](https://github.com/darylmathison)
 
