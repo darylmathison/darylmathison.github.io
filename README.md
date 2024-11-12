@@ -1,148 +1,127 @@
-# Daryl Mathison
+# **Daryl Mathison**
 
-3728 William Scarbrough, Schertz, TX 78154
+**Phone**: 740-834-9441  
+**Email**: [daryl.mathison@gmail.com](mailto:daryl.mathison@gmail.com)  
+**LinkedIn**: [https://www.linkedin.com/in/darylmathison](https://www.linkedin.com/in/darylmathison)  
+**GItHub**: [https://github.com/darylmathison](https://github.com/darylmathison)
 
-_Blog_: http://darylmathison.com
+---
 
-## Summary of Technical Expertise
+### **Technical Skills**
 
-* Senior Developer using iterative, continuous integration development to implement mid tier applications.
-* RESTful design and implementation (JAX/RS)
-* RPM design and implementation
-* Administrator of Bugzilla, Subversion, Wiki and Jenkins servers.
-* Glassfish, Tomcat, Apache, JBoss
-* Unix, Linux, Windows
-* XML, XSLT, XMLSchema, DOM, JAXB, Ant
-* SVN(Subversion), CVS, git
-* Oracle, PL/SQL, MySQL, Hazelcast
-* Java, J2EE, Spring, Hibernate, JMS, Apache Camel, JUnit
-* Groovy, Python, Docker, OpenShift
-* JDeveloper, Netbeans, Eclipse, IntelliJ
+* **Programming Languages**: Java (6 \- 11), Python, PL/SQL  
+* **Frameworks**: Spring, Spring Boot, Hibernate, JUnit, Pandas  
+* **Cloud Platforms**: AWS (Lambda, S3, Step Functions), OpenShift, Docker, Cloud Foundry  
+* **Database Technologies**: Oracle, MySQL, Hazelcast, AWS DynamoDB, PostgreSQL  
+* **Version Control & CI/CD**: Git, Bitbucket, GitHub, GitHub Actions  
+* **Web Technologies**: RESTful APIs, JSON, DOM, JAXB  
+* **Operating Systems**: Unix, Linux, Windows  
+* **Application Servers**: Glassfish, Tomcat, Apache  
+* **Serverless Architecture**: AWS Lambda, AWS Step Functions  
+* **Development Tools**: IntelliJ, PyCharm, Jupyter Notebooks
 
-## Professional Experience
+---
 
-### Holmes Corporation
-_Full Stack Developer_: **August 2019 - Oct 2019**
-* Contributed to a framework that was served to several customers
-* Kanban Environment
+### **Professional Experience**
 
-### Rackspace
-_Software Dev III_: **March 2016 - August 2019**
-* In a team that maintains a **critical business system**(CORE) written in Python.
-* Given responsibility to upgrade a system that synchronizes between two 
-**critical applications**(SFI).  Leads two software developers to help with
-maintaining the system.
-* Participated in Python 2 to 3 upgrade of CORE
-* Performing peer reviews in GitHub
-* Transferred CORE to a Docker image and deployed it to a OpenShift environment
-* Upgraded a Java enterprise application from JBoss 4 to Wildfly 10 for PCI compliance
-* Tier 3 customer support
+#### **Onshore Momentum | Consultant**
 
+*July 2023 – Present*
 
-### KForce
-_Consultant_: **May 2015 - March 2016**
+**Client**: Signet
 
-#### Clients
+* Led a data normalization project, transforming spreadsheet data into an Oracle database, enhancing data integrity and accessibility.  
+* Optimized four Spring Boot microservices for performance and reliability, significantly improving system responsiveness.  
+* Increased unit test coverage by 30% across multiple repositories, elevating code quality and reducing defect rates.  
+* Drove infrastructure modernization initiatives through GitHub Actions, automating critical development workflows.  
+* Provided security coaching to teams, enhancing code security practices and vulnerability remediation.
 
-##### Rackspace
-* Working with Apache Camel, Jersey and Spring to build service layer servers and utilities.
-* Interface with Oracle’s BRM.
-* Automated testing using JUnit.
+---
 
-##### USAA
-* Working to automate current procedures with a mixture of Java and JRules.
+#### **JPMorgan Chase | Software Developer**
+
+*July 2020 – July 2023*
+
+* Developed cloud-native applications using Java 11, AWS Lambdas, and AWS S3, driving innovation in financial services.  
+* Managed infrastructure as code with Terraform, ensuring consistent system configurations.  
+* Enhanced JUnit 4 test coverage by 30% across 10+ repositories, significantly bolstering software reliability.  
+* Mentored junior developers, promoting a culture of continuous learning and collaboration within the team.
+
+---
+
+#### **KForce | Consultant**
+
+*December 2019 – July 2020*
+
+**Client**: JPMorgan Chase
+
+* Collaborated with architects to design scalable services in a Spring/Hibernate/Tomcat environment.  
+* Developed automated testing frameworks using JUnit 4.x, improving overall software testability.  
+* Leveraged Cloud Foundry for efficient image hosting, streamlining deployment processes.  
+* Mentored junior developers in an Agile environment, employing swarming and peer development techniques to enhance team dynamics.
+
+---
+
+#### **Rackspace | Software Developer III**
+
+*March 2016 – August 2019*
+
+* Maintained a critical business system (CORE) in Python, ensuring operational stability and availability.  
+* Led a team to upgrade a vital synchronization system (SFI) between key applications, enhancing operational efficiency.  
+* Directed a Java upgrade from version 6 to 8, improving performance and ensuring compliance with industry standards.  
+* Managed the upgrade of a Java enterprise application from JBoss 4 to Wildfly 10, achieving PCI compliance and enhancing security.
+
+---
+
+#### **KForce | Consultant**
+
+*May 2015 – March 2016*
+
+**Client**: Rackspace
+
+* Working with Apache Camel, Jersey and Spring to build microservices.  
+* Interfaced with Oracle’s BRM.  
+* Automated testing using JUnit.  
+* Coached junior developers
+
+**Client**: USAA
+
+* ##### Working to automate current procedures with a mixture of Java and JRules.
+
 * Working with off-shore, near-shore and on-site in an Agile Scrum environment.
 
-### Frankie Friend and Assoc.
-_Software Analyst III_: **November 2014 – April 2015**
-* Created procedure to quickly remove Cross Site Scripting vulnerabilities.
-* Implemented a mock a customer service for testing.
-* Wrote code to remove SQL Injection vulnerabilities.
-* Interfacing with fingerprint machine via JNA.
-* Prototyped CRUD application with Spring Roo.
-* Roo used Hibernate as a JPA 2.0 provider.
+---
 
-### CNF Technologies
-_Senior Software Developer_: **December 2010 – October 2014**
-* **Lead development team** for two years maintaining a JBoss 4 server using J2EE.
-* Started effort to reimplement Configuration System for a network security application using Java EE, JMS, RESTful web services, Primefaces, XML, XSLT, JPA 2.0 and Glassfish 3.1.
-* REST services were used to implement CRUD and device control functionality.
-* Tasked with updating applications to keep up with security updates via RPMs.  Some upgrades needed customizations of the RPMs.
-* Wrote Python scripts to automate the creation of RPM spec files and to trigger continuous integration builds when software was committed to the repository.
+#### **CNF Technologies | Senior Software Developer**
 
-### St. Mary's University
-_Portal/Web Developer_: **March 2010 - Dec 2010**
-* Developed on the Luminis server based on uPortal technology.
-* Involved in turning the paper based enrollment process into a paperless process.
-* Gathered requirements from clients and implemented into “portlets” utilizing HTML, XML, XSLT, Subversion and JUnit.
+*December 2010 – October 2014*
 
-### Diligent Consulting Inc.
-_Technical Consultant_: **March 2007 – Dec 2009**
+* Led a development team for two years, maintaining a JBoss 4 server with J2EE.  
+* Initiated reimplementation of a Configuration System for a network security application using Java EE, JMS, RESTful web services, PrimeFaces, XML, XSLT, JPA 2.0, and Glassfish 3.1.  
+* Developed REST services to support CRUD operations and device control.  
+* Updated applications to meet security standards with RPM-based upgrades, customizing RPMs as needed.  
+* Automated RPM spec file creation and triggered CI builds with Python scripts.
 
-#### Projects
-##### April 2008 – Dec 2009
-* Created a custom tab widget using OAF.  Without the custom widget, many requirements would not have been met.
-* Developed Dynamic web pages using OAF and JDeveloper.
+---
 
-##### August 2007 – January 2008
-* Agile methodology for development.  
-* Pivotal in creating Subversion repository.  
-* Responsible for gathering requirements from stakeholders.  
-* Created test plans from gathered requirements and got stakeholder approval for test plans.  
-* Implemented requirements using JDeveloper 10 and Oracle ADF technology. 
+### **Personal Project**
 
-##### March 2007 – July 2007
-* Java Servlets
-* Oracle 10g 
-* Tomcat web container
-* Oracle’s Internet Application Server (iAS).  
-* Tuned new and existing SQL and PL/SQL, which dramatically improved database system performance.  
-* Helped to develop system specifications and schema diagrams to add new functionality 
-* Worked with stakeholders from design to acceptance.
+#### **Kraken Capital**
 
+*May 2022 \- Present*
 
-### General Dynamics AIS (Advanced Information Systems)
-_Software Engineer_: **April 1998 – February 2007**
+* Designed and deployed a serverless, event-driven stock trading algorithm on AWS for end-to-end trades with high availability and scalability.  
+* Built a multi-source ETL pipeline to unify market data from three APIs, using Pandas for processing and PostgreSQL for data warehousing.  
+* Developed a hybrid storage solution with AWS DynamoDB for state management and AWS S3 for temporary storage, optimizing efficiency.  
+* Used AWS Lambda for serverless data transformations and automated trade orders, achieving scalable, cost-effective operations.  
+* Created a serverless orchestration layer with AWS Step Functions for dynamic Lambda workflow management.  
+* Employed Pandas and Jupyter Notebooks for data prototyping and visualization to refine trading algorithms.  
+* Set up CI/CD with GitHub Actions for continuous integration and seamless feature deployment.  
+* Hosted project on GitHub for version control and transparent code maintenance.
 
-#### Projects
-##### January 2004 - November 2006
-* Developed on a team to simulate an air traffic control system based on a distributed Fedora 4 network.
-* Utilized Bugzilla and CVS to facilitate processes.
-* Managed the CVS respository.
-* Project was a mixture of kernel and user space using C/C++.
-* Implemented a XML schema to save the state of the application in case of a crash.
-* Responsibilities expanded to nightly builds and regression testing.  These were automated with a mixture of makefiles and scripts.
-* Wrote a paper on how to detect a honeypot.
+---
 
-##### March 2003 – December 2003
-* Research project on cross-platform agents.
-* Refactored a Java Swing front end from another project to work as a GUI to control the agents. 
-* Java Swing frontend interfaced with Python agents
-* Expanded the Python agent’s functionality
-* Automated resetting the test range with custom Knoppix distribution.
+### **Education**
 
-##### November 2002 – March 2003
-* Evaluated Intrusion Detection Systems’ (IDS) performance against attacks found on the internet.  
-* Test results  were distributed to the customer to update signatures.
-* Downloaded attacks had to be debugged to remove bugs added to source code. 
-* Worked in C/++
-
-##### August 2002 – October 2002
-* IDS and Incident Reporting database
-* Java Swing front end
-* Java middle tier
-* Oracle for a database.
-* Iterative test based methodology.
-
-##### May 1998 – August 2002
-* Multi-Tiered IDS to detect attacks on United States Air Force networks.
-* Java front end
-* Custom RMI server was the mid tier
-* Oracle backend
-
-##### April 1998 – May 1998
-* Tester for a IDS sensor (ASIM)
-* Expanded installation script to include optional libraries and documentation.
- 
-## Education
-Saint Mary's University, BS Computer Engineering
+**Saint Mary's University**  
+*Bachelor of Science in Computer Engineering*  
