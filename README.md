@@ -1,7 +1,6 @@
 # **Daryl Mathison**
 
 **LinkedIn**: [https://www.linkedin.com/in/darylmathison](https://www.linkedin.com/in/darylmathison)  
-**GItHub**: [https://github.com/darylmathison](https://github.com/darylmathison)
 
 ---
 
